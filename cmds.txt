@@ -1,0 +1,24 @@
+5192  git init first_node_app
+ 5193  ls
+ 5194  ls -a
+ 5195  cd first_node_app
+ 5196  ls
+ 5197  npx typescript --init
+ 5198  yarn init
+ 5199  npx typescript --init
+ 5200  rm -rf .git/hooks
+ 5201  npm install
+ 5202  npx typescript --init
+ 5203  tsc --init
+ 5204  tsc -v
+ 5205  npm instrall -g typescript
+ 5206  npm install -g typescript
+ 5207  tsc -v
+ 5208  npx typescript --init
+ 5209  tsc --init
+ 5210  mkdir src
+ 5211  touch src/app.ts
+ 5212  touch nodemon.json
+ 5213  yarn dev
+ 5214  yarn add express yup config cors express mongoose pino pino-pretty dayjs bcrypt jsonwebtoken lodash nanoid
+ 5215  yarn add @types/body-parser @types/config @types/cors @types/express @types/node @types/yup @types/pino @types/mongoose @types/bcrypt @types/jsonwebtoken @types/lodash @types/nanoid ts-node typescript -D
